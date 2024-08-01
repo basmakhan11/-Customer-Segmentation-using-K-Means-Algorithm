@@ -14,13 +14,18 @@ Customer Segmentation depends on some factors or variables. Those square measure
 We have several blessings of client segmentation like ready to determine the foremost valuable and potential customers, we can higher the client service, we can improve revenue, and scale back the wastage of cash.
 ## Advantages of Customer Segmentation
 •	Determine appropriate product pricing.
+
 •	Develop customized marketing campaigns.
+
 •	Design an optimal distribution strategy.
+
 •	Choose specific product features for deployment.
+
 •	Prioritize new product development efforts.
-    ## The Challenge
+
+ ## The Challenge
 You are owing a supermarket mall and through membership cards, you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. You want to understand the customers like who are the target customers so that the sense can be given to marketing team and plan the strategy accordingly.
-     K-Means Clustering
+## K-Means Clustering
 K-Means Clustering is an unsupervised learning algorithm that is used to solve the clustering problems in machine learning or data science. Unsupervised algorithms make inferences from datasets using only input vectors without referring to known, or labelled, outcomes.
 The objective of K-means is simple: group similar data points together and discover underlying patterns. To achieve this objective, K-means looks for a fixed number (k) of clusters in a dataset.
 A cluster refers to a collection of data points aggregated together because of certain similarities.
