@@ -46,6 +46,7 @@ A count plot() technique is employed on gender attributes that show the counts o
 •	Assign each object to the cluster to which the object is the most similar, based on the mean value of the objects in the cluster. 
 •	Update the cluster means, i.e. calculate the mean value of the objects for each cluster.
 •	Until no change.
+
 ## Data
 This project is a part of the Mall Customer Segmentation Data competition held on Kaggle. The dataset can be downloaded from the Kaggle website.
   Environment and tools
@@ -57,22 +58,29 @@ This project is a part of the Mall Customer Segmentation Data competition held o
   
  ## Conclusion
 From the above visualization it can be observed that Cluster 1 denotes the customer who has high annual income as well as high yearly spend. Cluster 2 represents the cluster having high annual income and low annual spend. Cluster 3 represents customer with low annual income and low annual spend. Cluster 5 denotes the low annual income but high yearly spend. Cluster 4 and cluster 6 denotes the customer with medium income and medium spending score.
+
 ## REFERENCES
 [1] I. S. Dhillon and D. M. Modha, “Concept decompositions for large 
 sparse text data using clustering,” Machine Learning, vol. 42, issue 1, 
 pp. 143-175, 2001. 
+
 [2] T. Kanungo, D. M. Mount, N. S. Netanyahu, C. D. Piatko, R. 
 Silverman, and A. Y. Wu, “An efficient K-means clustering 
 algorithm,” IEEE Trans. Pattern Analysis and Machine Intelligence, 
 vol. 24, pp. 881-892, 2002. 
+
 [3] MacKay and David, “An Example Inference Task: Clustering,” 
 Information Theory, Inference and Learning Algorithms, Cambridge 
 University Press, pp. 284-292, 2003. 
+
 [4] Jiawei Han, Micheline Kamber, Jian Pei “Data Mining Concepts and Techniques”, Third Edition. 
+
 [5] D. Aloise, A. Deshpande, P. Hansen, and P. Popat, “The Basis Of Market Segmentation” 
 Euclidean sum-of-squares clustering,” Machine Learning, vol. 75, pp. 
 245-249, 2009. 
+
 [6] S. Dasgupta and Y. Freund, “Random Trees for Vector Quantization,” 
 IEEE Trans. on Information Theory, vol. 55, pp. 3229-3242, 2009. 
+
 [7]Puwanenthiren Premkanth, ―Market Segmentation and Its Impact on Customer Satisfaction with Especial Reference to Commercial Bank of Ceylon PLC.‖ Global Journal of Management and Business Research Publisher: Global Journals Inc. (USA). 2012. Print ISSN: 0975-5853. Volume 12 Issue 1
 
