@@ -35,16 +35,25 @@ A cluster refers to a collection of data points aggregated together because of c
 In this project, we tend to use python language with Online Google Colabatory In machine learning, we’ve got unsupervised learning. We implement the client segmentation exploitation k-means cluster algorithmic program.
 To implement the client segmentation first, we must always import the required libraries and modules into the Google Colab.Read the information set as ‘df’ and that we perform some data visualization operations like shape() for knowing the number of rows and columns, info() for obtaining the main points of dataset attributes, and displaying the primary five rows with head().
 A count plot() technique is employed on gender attributes that show the counts of observations in every categorical bin using bars. A pair plot permits us to see both distributions of single variables and relationships between two variables. Like that we tend to perform several operations like plots, graphs, etc. Later performing various data visualization operations, Now we focus on the k-means clustering algorithm.
+
   K-Means Clustering 
 •	K Means algorithm in an iterative algorithm that tries to partition the dataset into K predefined distinct non overlapping sub groups which are called as cluster.
+
 •	Here K is the total no of clusters.
+
 •	Every point belongs to only one cluster.
+
 •	Clusters cannot overlap.
- Steps of Algorithm
+
+ ## Steps of Algorithm
 •	Arbitrarily choose k objects from D as the initial cluster centers. 
+
 •	Repeat.
-•	Assign each object to the cluster to which the object is the most similar, based on the mean value of the objects in the cluster. 
+
+•	Assign each object to the cluster to which the object is the most similar, based on the mean value of the objects in the cluster.
+
 •	Update the cluster means, i.e. calculate the mean value of the objects for each cluster.
+
 •	Until no change.
 
 ## Data
